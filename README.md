@@ -15,4 +15,6 @@ npm install socket.io
 [socket.io   ](https://socket.io/)   
 npm install peer   
 
-[Peerjs](https://peerjs.com/) Automatically generate id's.
+[Peerjs](https://peerjs.com/) Automatically generate id's.   
+
+npm install -g heroku
